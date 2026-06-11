@@ -11,6 +11,16 @@ A modern digital menu and table reservation system for cafes with a minimalist g
 - Any resemblance to real cafes or brands is purely coincidental.
 - This project is not complete and is actively being developed. New features will be added over time.
 
+## 📸 Screenshots
+
+| Home Page | Menu Page |
+|-----------|-----------|
+| ![Home Page](screenshots/homepage.jpg) | ![Menu Page](screenshots/menupage.jpg) |
+
+| Login Page | Menu Items |
+|------------|------------|
+| ![Login Page](screenshots/loginpage.jpg) | ![Menu Items](screenshots/menuitems.jpg) |
+
 ## ✨ Current Features
 
 - 🍽️ Digital menu with categories and products
