@@ -52,8 +52,13 @@ const Menu = () => {
   const pages = [];
 
   const Header = () => (
-    <div style={{ textAlign: "center", paddingBottom: "12px", marginBottom: "15px" }}>
-      <h1 style={{ fontSize: "clamp(20px, 5vw, 24px)", margin: 0, color: "#5C3A1E", letterSpacing: "2px" }}>MyCafe</h1>
+    <div style={{ fontSize: "clamp(36px, 6vw, 52px)",
+            color: "#5C3A1E",
+            marginBottom: "20px",
+            fontFamily: "'Playfair Display', Georgia, serif",  
+            fontStyle: "italic",  
+            letterSpacing: "1px", }}>
+      <h1 style={{ fontSize: "clamp(25px, 10vw, 29px)", margin: 0, color: "#5C3A1E", letterSpacing: "2px" }}>Olive Menu</h1>
       <p style={{ fontSize: "clamp(9px, 3vw, 11px)", color: "#8B5A2B", marginTop: "4px" }}>EST. 2024</p>
     </div>
   );
